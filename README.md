@@ -1,5 +1,5 @@
 # Cursor Spotlight Video Effect
-# Live-Demo - 
+# Live-Demo - https://interactive-spotlight-ui.vercel.app/
 This project creates a **spotlight effect** on top of a fullscreen background video, where the visible area follows the user’s mouse cursor.  
 It uses **HTML**, **CSS variables**, and **JavaScript mouse events** to dynamically update the effect.
 
