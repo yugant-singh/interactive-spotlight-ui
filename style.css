@@ -29,7 +29,7 @@ main video{
 .box{
     height: 100%;
     width: 100%;
-   background: radial-gradient(350px at var(--x)var(--y) ,rgba(255, 255, 255, 0),rgb(0, 0, 0));
+   background: radial-gradient(150px at var(--x)var(--y) ,rgba(255, 255, 255, 0),rgb(0, 0, 0));
    position: absolute;
    top: 0;
    left: 0;
